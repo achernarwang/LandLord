@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/C2.png</file>
+        <file>images/C3.png</file>
+        <file>images/C4.png</file>
+        <file>images/C5.png</file>
+        <file>images/C6.png</file>
+        <file>images/C7.png</file>
+        <file>images/C8.png</file>
+        <file>images/C9.png</file>
+        <file>images/C10.png</file>
+        <file>images/CA.png</file>
+        <file>images/CJ.png</file>
+        <file>images/CK.png</file>
+        <file>images/CQ.png</file>
+        <file>images/D2.png</file>
+        <file>images/D3.png</file>
+        <file>images/D4.png</file>
+        <file>images/D5.png</file>
+        <file>images/D6.png</file>
+        <file>images/D7.png</file>
+        <file>images/D8.png</file>
+        <file>images/D9.png</file>
+        <file>images/D10.png</file>
+        <file>images/DA.png</file>
+        <file>images/DJ.png</file>
+        <file>images/DK.png</file>
+        <file>images/DQ.png</file>
+        <file>images/H2.png</file>
+        <file>images/H3.png</file>
+        <file>images/H4.png</file>
+        <file>images/H5.png</file>
+        <file>images/H6.png</file>
+        <file>images/H7.png</file>
+        <file>images/H8.png</file>
+        <file>images/H9.png</file>
+        <file>images/H10.png</file>
+        <file>images/HJ.png</file>
+        <file>images/HK.png</file>
+        <file>images/HQ.png</file>
+        <file>images/PADDING.png</file>
+        <file>images/RED JOKER.png</file>
+        <file>images/S2.png</file>
+        <file>images/S3.png</file>
+        <file>images/S4.png</file>
+        <file>images/S5.png</file>
+        <file>images/S6.png</file>
+        <file>images/S7.png</file>
+        <file>images/S8.png</file>
+        <file>images/S9.png</file>
+        <file>images/S10.png</file>
+        <file>images/SA.png</file>
+        <file>images/SJ.png</file>
+        <file>images/SK.png</file>
+        <file>images/SQ.png</file>
+        <file>images/HA.png</file>
+        <file>images/BLACK JOKER.png</file>
+    </qresource>
+</RCC>
